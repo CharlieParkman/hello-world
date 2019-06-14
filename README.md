@@ -1,5 +1,4 @@
 # hello-world
 Hello World
-I like tacos and sushi
-a lot.
-
+I like tacos and sushi,
+Especially salmon.
